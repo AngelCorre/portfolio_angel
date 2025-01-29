@@ -121,7 +121,7 @@ section {
     justify-content: space-around !important;
     align-items: center !important;
     
-  }
+  } 
   
   .d-gd {
     
@@ -320,6 +320,12 @@ p {
     
   }
 
+}
+
+.d-flex {
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 .hover-icon {
