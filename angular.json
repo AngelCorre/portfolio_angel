@@ -13,7 +13,6 @@
         "build": {
           "builder": "@angular-devkit/build-angular:application",
           "options": {
-            "baseHref": "/",
             "outputPath": "dist/portfolio-front-end",
             "index": "src/index.html",
             "browser": "src/main.ts",
